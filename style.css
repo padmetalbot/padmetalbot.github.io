@@ -190,19 +190,19 @@ nav h1 {
   justify-content: space-between;
   align-items: center;
   text-decoration: none;
-  color: #fffdfd;
+  color: #57c8eb;
   padding: 16px 20px;
   font-size: 1.1rem;
   font-weight: 500;
-  background: #fff;
-  border: 1px solid #e0e0e0;
+  background: #7269ee;
+  border: 1px solid #7951e6;
   border-radius: 12px;
   transition: background 0.25s ease, color 0.25s ease, transform 0.25s ease;
 }
 
 #portfolio a:hover {
-  background: #ffffff;
-  color: #fff;
+  background: #2f1cdd;
+  color: #1465cf;
   transform: translateX(4px);
 }
 
