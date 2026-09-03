@@ -27,7 +27,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    // toggleGrid();
+     toggleGrid();
 
 
     // TODO 2 - Create Platforms
@@ -36,7 +36,7 @@ createPlatform(150, 500, 200, 20, "purple");
 createPlatform(330, 700, 50, 50, "purple");
 createPlatform(500, 600, 50, 290, "purple");
 createPlatform(500, 400, 200, 20, "purple");
-createPlatform(800, 350, 50, 50, "purple");
+createPlatform(750, 350, 150, 20, "purple");
 createPlatform(950, 250, 200, 20, "purple");
 createPlatform(630, 700, 50, 50, "purple");
 createPlatform(1250, 150, 50, 50, "purple");
@@ -44,6 +44,7 @@ createPlatform(1000, 600, 200, 20, "purple");
 createPlatform(900, 700, 50, 50, "purple");
 
 createCollectable("star", 1300, 50,);
+createCollectable("link", 750, 250,);
 createCollectable("bot", 200, 170, 0.5, 0.7);
 createCollectable("rock", 1055, 400, 0.5, 0.7);
 
