@@ -51,7 +51,7 @@ createCollectable("rock", 1055, 400, 0.5, 0.7);
 createCannon("top", 800, 1200);
 createCannon("top", 300, 1500);
 createCannon("right", 300, 2000);
-createCannon("right", 550, 1300);
+createCannon("right", 550, 2500);
 
     // TODO 3 - Create Collectables
 
